@@ -1,0 +1,17 @@
+.cardsTypeTwo {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(
+    2,
+    auto
+  ); /* You can adjust the row height as needed */
+}
+
+.cardss {
+  padding: 55px 77px 37px 105px;
+  width: 480px;
+  height: 240px;
+  display: flex;
+  gap: 28px;
+  flex-direction: column;
+}

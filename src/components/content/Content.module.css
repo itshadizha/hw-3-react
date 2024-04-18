@@ -1,0 +1,19 @@
+.content {
+  padding-left: 179px;
+  background-color: #f4f9e2;
+  padding-bottom: 73px;
+}
+
+.rectangle {
+  position: absolute;
+  z-index: 3;
+  right: 0;
+  top: 0;
+}
+
+.firstPic {
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 7;
+}

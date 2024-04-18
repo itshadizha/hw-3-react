@@ -1,0 +1,33 @@
+.card {
+  width: 360px;
+  height: 10px;
+  padding: 72px 52px 211px 52px;
+  color: white;
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.line {
+  border: 1px solid white;
+}
+
+.cardText {
+  display: flex;
+  margin-top: 29px;
+}
+
+.big {
+  width: 480px;
+  height: 480px;
+  padding: 96px 70px 288px 70px;
+}
+
+.cardText::before {
+  width: 9px;
+  height: 9px;
+  content: "";
+  margin-right: 12px;
+  margin-top: 10px;
+  background: rgba(233, 183, 48, 1);
+  border-radius: 100%;
+}

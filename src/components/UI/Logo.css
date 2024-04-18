@@ -1,0 +1,15 @@
+.logo {
+  color: rgba(98, 208, 223, 1);
+  font-size: 24px;
+  padding-top: 27px;
+  z-index: 20;
+  background-color: #f4f9e2;
+  margin: 0;
+  font-weight: 700;
+}
+
+.secondUse {
+  padding-top: 187px;
+  margin: 0;
+}
+

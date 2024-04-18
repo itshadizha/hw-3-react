@@ -1,0 +1,16 @@
+.end{
+    background: #62D0DF;
+    width: 1443px;
+    height: 80px;
+padding-top: 32px;
+padding-left: 194px;
+    
+}
+
+.text{
+    color: white;
+}
+
+.text::before{
+    content: "©";
+}

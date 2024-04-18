@@ -1,0 +1,31 @@
+.sectionSeventh{
+    display: flex;
+    flex-direction: row;
+}
+
+.sectionSeventhLeft{
+    background: rgba(34, 53, 111, 1);
+padding: 103px 197px 42px 175px ;
+color: white;
+}
+
+.contact{
+opacity: 6%;
+margin-bottom:230px ;
+}
+
+.verbs{
+    font-size: 58px;
+    font-weight: 900;
+}
+
+.text{
+    width: 579px;
+    font-size: 36px;
+
+line-height: 52.73px;
+letter-spacing: -0.005em;
+margin-top: 75px;
+margin-bottom: 88px;
+}
+

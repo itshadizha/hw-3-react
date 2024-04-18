@@ -1,0 +1,10 @@
+.sectionThird{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 156px 424px 0 106px;
+}
+
+.secondPart{
+    margin-left: 424px;
+}

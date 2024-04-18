@@ -1,0 +1,25 @@
+.whyUs{
+font-size: 36px;
+font-weight: 700;
+}
+
+.sectionSecond{
+    display: flex;
+    flex-direction: row;
+    gap: 180px;
+    background-color: #62D0DF;
+    color: white;
+    padding-left:    178px;
+}
+
+.first_part{
+    display: flex;
+    flex-direction: column;
+    gap: 75px;
+    margin-top:160px ;
+    margin-bottom: 92px;
+}
+
+.secondPic{
+    margin: 0;
+}

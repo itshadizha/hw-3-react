@@ -1,0 +1,5 @@
+.CardsPartOne{
+    display: flex;
+    flex-direction: row;
+    padding: 24px 0 120px 0;
+}

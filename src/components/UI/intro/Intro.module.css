@@ -1,0 +1,28 @@
+.intro {
+    display: flex;
+    flex-direction: column;
+    gap: 63px;
+}
+
+.title {
+    margin-top: 45px;
+  width: 500px;
+  font-weight: 900;
+  font-size: 48px;
+  line-height: 53px;
+  color: rgba(34, 53, 111, 1);
+}
+
+
+.question{
+    color: rgba(250, 182, 62, 1);
+font-weight: 700;
+padding: 10px;
+}
+
+.remain{
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    gap: 38px;
+}

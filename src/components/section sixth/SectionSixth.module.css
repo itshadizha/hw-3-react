@@ -1,0 +1,30 @@
+.sectionSixthText {
+  font-size: 36px;
+  font-weight: 700;
+  color: #22356f;
+  margin-top: 225px;
+  margin-bottom: 152px;
+line-height: 1.5em;
+width: 676px;
+
+}
+
+.sectionSixth {
+  display: flex;
+  flex-direction: row;
+  gap: 106px;
+}
+
+.sectionSixthRight {
+  padding-top: 103px;
+  padding-bottom: 42px;
+  padding-right: 175px;
+}
+
+.logo {
+  color: rgba(98, 208, 223, 1);
+  font-size: 36px;
+  padding: 5px;
+
+  font-weight: 700;
+}

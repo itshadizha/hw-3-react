@@ -1,0 +1,20 @@
+.footerRight{
+    display: flex;
+    flex-direction: row;
+    padding-top: 98px;
+    padding-left: 68px;
+    gap: 50px;
+    Line-height:
+22.97px;
+color: rgba(34, 53, 111, 0.5);
+
+}
+
+.footer{
+    display: flex;
+    flex-direction: row;
+}
+
+img{
+    margin: 0;
+}
